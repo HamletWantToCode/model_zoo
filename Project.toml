@@ -1,0 +1,13 @@
+name = "GP_model_zoo"
+uuid = "cbb585a4-b1d0-4ee3-b6e1-945353e1fff3"
+authors = ["hongbinren <hongbinrenscu@outlook.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
