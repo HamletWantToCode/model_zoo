@@ -1,1 +1,1 @@
-# GP_model_zoo
+# Gaussian process model zoo 
